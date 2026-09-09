@@ -1,2 +1,3 @@
-Name : Samarth S B
-USN  : 01JST25PNI010
+Name   : Samarth S B
+USN    : 01JST25PNI010
+Domain : NIE
